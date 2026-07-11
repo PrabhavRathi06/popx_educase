@@ -2,6 +2,14 @@
 
 > A sleek, responsive React + Vite application implementing the PopX UI assignment with local storage authentication.
 
+**[Live Demo on Vercel](https://popx-educase-psi.vercel.app/)** | **[GitHub Repository](https://github.com/PrabhavRathi06/popx_educase)**
+
+## 📸 Screenshots
+
+| Landing Page | Profile Page |
+|:---:|:---:|
+| ![Landing Page](./src/assets/landing_screenshot.png) | ![Profile Page](./src/assets/profile_screenshot.jpg) |
+
 ## 🌟 Features
 
 - **Landing Page**: Engaging entry point for the application.
